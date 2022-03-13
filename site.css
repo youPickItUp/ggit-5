@@ -1,0 +1,45 @@
+nav {
+  background-color: #dcd7f7;
+  color: #424874;
+  text-align: center;
+  padding: 10px;
+}
+
+nav > * {
+  max-width: 45%;
+  margin: auto;
+  padding: 4px;
+}
+
+main {
+  min-height: 80vh;
+}
+
+body {
+  margin: 0;
+  background-color: #f5eefe;
+}
+
+footer {
+  background-color: #dcd7f7;
+  color: #424874;
+  padding: 25px;
+  text-align: center;
+}
+
+.tile {
+  background-color: #dcd7f7;
+  max-width: 300px;
+  margin: auto;
+  padding: 30px;
+  border-radius: 50px;
+  box-shadow: 3px 9px 16px 0px rgba(66, 68, 90, 1);
+}
+
+.rounded {
+  border-radius: 30px;
+}
+
+.margin-bottom-20 {
+  margin-bottom: 20px;
+}
