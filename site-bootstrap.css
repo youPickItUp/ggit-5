@@ -1,0 +1,14 @@
+.avatar {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  object-position: left;
+}
+
+.card-size {
+  width: 18rem;
+}
+
+.form-control:focus {
+  box-shadow: 0 0 0 0.25rem rgba(112, 255, 69, 0.75);
+}
